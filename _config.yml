@@ -1,5 +1,6 @@
 ---
 title: Netlify Test
+baseurl: /netlify-test
 timezone: UTC
 collections:
   posts:
