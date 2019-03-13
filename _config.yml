@@ -8,5 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: "/netlify-test"
+baseurl: "/netlify-test/"
 theme: jekyll-theme-merlot
