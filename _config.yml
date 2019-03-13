@@ -1,6 +1,5 @@
 ---
 title: Netlify Test
-baseurl: /netlify-test
 timezone: UTC
 collections:
   posts:
@@ -9,4 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+baseurl: "/netlify-test"
 theme: jekyll-theme-merlot
