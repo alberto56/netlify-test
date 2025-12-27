@@ -3,7 +3,7 @@ backend:
   repo: alberto56/netlify-test
   branch: master
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6946e3f67c6e2b059bec66b7
+  auth_endpoint: /auth/github/repo/694f515718f56cc358266535
 media_folder: static/uploads
 public_folder: /uploads
 collections:
